@@ -17,11 +17,11 @@ const CartContainer = () => {
         <h2>your bag</h2>
       </header>
       {/* cart items */}
-      {/* <div>
+      <div>
         {cart.map((item) => {
           return <CartItem key={item.id} {...item} />
         })}
-      </div> */}
+      </div>
       {/* cart footer */}
       <footer>
         <hr />
