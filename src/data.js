@@ -20,4 +20,18 @@ export default [
     img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
     amount: 1,
   },
+  {
+    id: 4,
+    title: 'Xiomi Red 9',
+    price: 824.99,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: 'OnePlus',
+    price: 879.95,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
 ]
