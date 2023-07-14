@@ -1,4 +1,4 @@
-const CartContainer = () => {
+const CartContainer = ({ props }) => {
   if (cart.length === 0) {
     return (
       <section className="cart">
