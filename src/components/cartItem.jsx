@@ -1,9 +1,9 @@
 const CartItem = () => {
   return (
     <article className="cart-item">
-      <img src="" alt="" />
+      <img src="" alt="image title" />
       <div>
-        <h4></h4>
+        <h4>Title</h4>
         <h4 className="item-price"></h4>
 
         <button className="remove-btn">remove</button>
