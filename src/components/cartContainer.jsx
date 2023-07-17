@@ -1,5 +1,5 @@
 const CartContainer = ({ props }) => {
-  if (cart.length === 0) {
+  if () {
     return (
       <section className="cart">
         <header>

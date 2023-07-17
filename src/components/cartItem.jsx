@@ -1,4 +1,4 @@
-const CartItem = () => {
+const CartItem = (props) => {
   return (
     <article className="cart-item">
       <img src="" alt="image title" />
