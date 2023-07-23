@@ -15,12 +15,6 @@ const CartContainer = ({ props }) => {
         <h2>your bag</h2>
       </header>
 
-      <div>
-        {/* {cart.map((item) => {
-          return <CartItem key={item.id} {...item} />
-        })} */}
-      </div>
-
       <footer>
         <hr />
         <div className="cart-total">
